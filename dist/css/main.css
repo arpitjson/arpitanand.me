@@ -161,7 +161,7 @@ main {
   min-height: calc(100vh - 60px); }
   main .icons {
     margin-top: 1rem; 
-  margin-left: 45px;}
+ }
     
     main .icons a {
       padding: 0.4rem; }
